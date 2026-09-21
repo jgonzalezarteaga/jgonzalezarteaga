@@ -6,7 +6,7 @@
 
 ---
 
-### 🔎 Featured project
+###  Featured project
 
 **[Denim West — Analytics Pipeline](https://github.com/jgonzalezarteaga/pipeline-analitica-denim-west)**
 
